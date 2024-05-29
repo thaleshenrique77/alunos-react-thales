@@ -1,0 +1,28 @@
+{
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "Thales Henrique",
+      "email": "thales@hotmail.com",
+      "curso": "Ciência da Computação"
+    },
+    {
+      "id": "2",
+      "nome": "Paulo",
+      "email": "paulo@hotmail.com",
+      "curso": "Medicina"
+    },
+    {
+      "id": "3",
+      "nome": "João Victor",
+      "email": "joao@hotmail.com",
+      "curso": "ADS"
+    },
+    {
+      "id": "4",
+      "nome": "Romero",
+      "email": "romero@hotmail.com",
+      "curso": "Ciência da Computação"
+    }
+  ]
+}
